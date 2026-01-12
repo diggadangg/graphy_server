@@ -1,4 +1,4 @@
-FROM node:hydrogen-buster
+FROM node:20-bookworm-slim
 
 # 2. THE FIX: Place Option A right here
 # This updates the package list and installs the specific security patch
